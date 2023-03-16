@@ -1,7 +1,7 @@
 /* rs-theme-name: Night Owl */ 
   /* rs-theme-is-dark: TRUE */ 
   /* A port of Sarah Drasner's Night Owl VS Code theme (UUID: EB0EC8F4-467B-46D0-8AE9-88B44F4D73B4) */  
-.ace_gutter {
+.ace_gutter { 
   background: #010b14;
   color: rgb(1, 11, 20);
 }  
